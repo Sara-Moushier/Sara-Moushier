@@ -1,8 +1,8 @@
 ### Hi I am Sara Moushier 👋
 
-###👨🏻‍💻 About Me
-#- 🔭 I’m currently student at computer science university.
-#- 🌱 I’m currently learning flutter and testing teqniques.
+👨🏻‍💻 ##About Me
+- 🔭 I’m currently student at computer science university.
+- 🌱 I’m currently learning flutter and testing teqniques.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
