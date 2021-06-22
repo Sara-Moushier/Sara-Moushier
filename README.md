@@ -1,9 +1,6 @@
 ### Hi I am Sara Moushier 👋
 
-**Sara-Moushier/Sara-Moushier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**Sara-Moushier/Sara-Moushier** 
 #- 🔭 I’m currently student at computer science university.
 #- 🌱 I’m currently learning flutter and testing teqniques.
 <!--
