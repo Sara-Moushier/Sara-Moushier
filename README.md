@@ -1,7 +1,7 @@
 ### Hi I am Sara Moushier 👋
 
-👨🏻‍💻 ##About Me
-- 🔭 I’m currently student at computer science university.
+👨🏻‍💻 **About Me:
+- 🎓 Computer Science undergraduate
 - 🌱 I’m currently learning flutter and testing teqniques.
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -10,4 +10,6 @@
 - 📫 How to reach me: saramoushier@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🔭 I’m currently student at computer science university.
 -->
