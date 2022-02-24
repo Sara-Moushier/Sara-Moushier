@@ -1,8 +1,8 @@
 ### Hi I am Sara Moushier 👋
 
 👨🏻‍💻 **About Me:
-- 🎓 Computer Science undergraduate
-- 🌱 I’m currently learning flutter and testing techniques.
+- 🎓 Computer Science Senior Student
+- 🌱 I’m currently learning flutter and cross platform mabile application.
 - 📫 How to reach me: saramoushier@gmail.com
 <!--
 - 👯 I’m looking to collaborate on ...
